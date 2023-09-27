@@ -1,2 +1,4 @@
 # .github
-ReadMe
+Zasady korzystania z gita.
+
+#TODO
